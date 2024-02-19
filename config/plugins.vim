@@ -2,8 +2,6 @@ call plug#begin('~/.vim/plugged')
 
 " UI
 Plug 'mhinz/vim-startify'
-
-" colorscheme
 Plug 'joshdick/onedark.vim'
 Plug 'sainnhe/gruvbox-material'
 Plug 'morhetz/gruvbox'
