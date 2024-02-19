@@ -14,5 +14,5 @@ command! -nargs=1 LoadScript exec 'so 's:home.'/'.'<args>'
 " 载入配置模块
 LoadScript config/basic.vim
 LoadScript config/plugins.vim
-LoadScript config/ui.vim
+LoadScript config/style.vim
 LoadScript config/keymaps.vim
