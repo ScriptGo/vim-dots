@@ -81,6 +81,7 @@ set nowrapscan          " 禁止在搜索到文件两端时重新搜索
 set smartcase           " 默认忽略大小写，除非搜索内容包含大写字母
 
 set clipboard=unnamedplus
+set hidden
 set browsedir=buffer    " 设定文件浏览器目录为当前目录
 set autochdir           " 自动切换当前目录为当前文件所在的目录
 set nobackup            " 禁止备份
